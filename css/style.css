@@ -585,10 +585,7 @@ footer {
         position: relative;
         top: 50%;
         transform: translateY(-50%);
-    }
-
-    .one-text h2, .one-text p {
-        padding: 0 20px;
+        margin: 0 30px;
     }
 
     .final {
