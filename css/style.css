@@ -585,6 +585,13 @@ footer {
         position: relative;
         top: 50%;
         transform: translateY(-50%);
+    }
+
+    .one-text h2 {
+        margin: 0 30px;
+    }
+
+    .one-text p {
         margin: 0 30px;
     }
 
