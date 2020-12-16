@@ -572,13 +572,19 @@ footer {
 
     main .banner {
         height: 500px;
-        background-attachment: unset;
+        background-attachment: initial;
         background-position: center center ;
-        background-size: auto;
+        background-size: initial;
     }
     
     .one {
-        padding-top: 40px;
+        padding: 0;
+    }
+
+    .one-text {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
     }
 
     .final {
